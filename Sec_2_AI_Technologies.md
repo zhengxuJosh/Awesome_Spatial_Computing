@@ -47,7 +47,7 @@
 ### Navigation with hands
 | Publications | Paper |
 | :-----| :---- |
-| Human-Computer Interaction. Recognition and Interaction Technologies | [Text Entry in Virtual Reality: A Comprehensive Review of the Literature](https://link.springer.com/chapter/10.1007/978-3-030-22643-5_33)|
+| International Conference on Human-Computer Interaction | [Text Entry in Virtual Reality: A Comprehensive Review of the Literature](https://link.springer.com/chapter/10.1007/978-3-030-22643-5_33)|
 | ||
 
 
