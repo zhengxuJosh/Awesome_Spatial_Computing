@@ -47,7 +47,7 @@
 ### Navigation with hands
 | Publications | Paper |
 | :-----| :---- |
-| CVPR 2019 | [Text Input for Non-Stationary XR Workspaces: Investigating Tap and Word-Gesture Keyboards in Virtual and Augmented Reality]([https://ieeexplore.ieee.org/abstract/document/10049665](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049665)https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049665)|
+| CVPR 2019 | [Text Input for Non-Stationary XR Workspaces: Investigating Tap and Word-Gesture Keyboards in Virtual and Augmented Reality](https://ieeexplore.ieee.org/abstract/document/10049665)|
 | ||
 
 
