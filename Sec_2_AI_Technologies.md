@@ -43,3 +43,11 @@
 | CVPR 2020 | [Understanding Human Hands in Contact at Internet Scale](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shan_Understanding_Human_Hands_in_Contact_at_Internet_Scale_CVPR_2020_paper.pdf) |
 | CVPR 2022 | [Forward propagation, backward regression, and pose association for hand tracking in the wild](http://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.pdf) |
 | ||
+
+### Navigation with hands
+| Publications | Paper |
+| :-----| :---- |
+| CVPR 2019 | [Text Input for Non-Stationary XR Workspaces: Investigating Tap and Word-Gesture Keyboards in Virtual and Augmented Reality]([http://openaccess.thecvf.com/content_CVPR_2019/papers/Ge_3D_Hand_Shape_and_Pose_Estimation_From_a_Single_RGB_CVPR_2019_paper.pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049665)https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10049665) |
+| ||
+
+
