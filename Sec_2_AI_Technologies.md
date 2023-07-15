@@ -44,7 +44,7 @@
 | CVPR 2022 | [Forward propagation, backward regression, and pose association for hand tracking in the wild](http://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Forward_Propagation_Backward_Regression_and_Pose_Association_for_Hand_Tracking_CVPR_2022_paper.pdf) |
 | ||
 
-### Navigation with hands
+### AR keyboard
 | Publications | Paper |
 | :-----| :---- |
 | International Conference on Human-Computer Interaction | [Text Entry in Virtual Reality: A Comprehensive Review of the Literature](https://link.springer.com/chapter/10.1007/978-3-030-22643-5_33)|
