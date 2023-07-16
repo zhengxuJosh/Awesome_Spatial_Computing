@@ -48,6 +48,7 @@
 | Publications | Paper |
 | :-----| :---- |
 | International Conference on Human-Computer Interaction | [Text Entry in Virtual Reality: A Comprehensive Review of the Literature](https://link.springer.com/chapter/10.1007/978-3-030-22643-5_33)|
+| IEEE Transactions on Visualization and Computer Graphics | [CrowbarLimbs: A Fatigue-Reducing Virtual Reality Text Entry Metaphor](https://ieeexplore.ieee.org/abstract/document/10049695?casa_token=D73X_Dj-6dwAAAAA:8pOH5Ji5xIkQE9ipOfA5vw9DomtKrmppBMUa76DE95BgDfM58pXzxWt5lJ7PYSZfvPQjS53fBejKZw)|
 | ||
 
 
