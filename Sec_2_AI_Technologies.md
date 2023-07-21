@@ -57,4 +57,26 @@
 | IEEE Transactions on Visualization and Computer Graphics | [PizzaText: Text Entry for Virtual Reality Systems Using Dual Thumbsticks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8456570)|
 | ||
 
-
+### Human Action Recognition
+| Publications | Paper |
+| :-----| :---- |
+| CVPR 2017    | [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://openaccess.thecvf.com/content_cvpr_2017/papers/Carreira_Quo_Vadis_Action_CVPR_2017_paper.pdf) |
+| CVPR 2015    | [Learning Spatiotemporal Features with 3D Convolutional Networks](https://openaccess.thecvf.com/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf) |
+| ECCV 2010    | [Convolutional Learning of Spatio-temporal Features](https://link.springer.com/content/pdf/10.1007/978-3-642-15567-3_11.pdf) |
+| NearIPS 2014 | [Two-Stream Convolutional Networks for Action Recognition in Videos](https://proceedings.neurips.cc/paper_files/paper/2014/file/00ec53c4682d36f5c4359f4ae7bd7ba1-Paper.pdf) |
+| ICCV 2019    | [SlowFast Networks for Video Recognition](https://openaccess.thecvf.com/content_ICCV_2019/papers/Feichtenhofer_SlowFast_Networks_for_Video_Recognition_ICCV_2019_paper.pdf) |
+| ICCV 2021    | [ViViT: A Video Vision Transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.pdf) |
+| ICCV 2021    | [Multiscale Vision Transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Multiscale_Vision_Transformers_ICCV_2021_paper.pdf) |
+| ICML 2022    | [Is Space-Time Attention All You Need for Video Understanding?](http://proceedings.mlr.press/v139/bertasius21a/bertasius21a-supp.pdf) |
+| ICCV 2022    | [Video Transformer Network](https://openaccess.thecvf.com/content/ICCV2021W/CVEU/papers/Neimark_Video_Transformer_Network_ICCVW_2021_paper.pdf) |
+| CVPR 2019    | [A Structured Model For Action Detection](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Structured_Model_for_Action_Detection_CVPR_2019_paper.pdf) |
+| CVPR 2018    | [Non-local Neural Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) |
+| CVPR 2019    | [Relational Action Forecasting](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Relational_Action_Forecasting_CVPR_2019_paper.pdf) |
+| CVPR 2021    | [Actor-Context-Actor Relation Network for Spatio-Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Actor-Context-Actor_Relation_Network_for_Spatio-Temporal_Action_Localization_CVPR_2021_paper.pdf) |
+| CVPR 2019    | [PoTion: Pose MoTion Representation for Action Recognition](https://openaccess.thecvf.com/content_cvpr_2018/papers/Choutas_PoTion_Pose_MoTion_CVPR_2018_paper.pdf) |
+| IJCV 2021    | [Synthetic Humans for Action Recognition from Unseen Viewpoints](https://link.springer.com/article/10.1007/s11263-021-01467-7) |
+| CVPR 2019    | [PA3D: Pose-Action 3D Machine for Video Recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yan_PA3D_Pose-Action_3D_Machine_for_Video_Recognition_CVPR_2019_paper.pdf) |
+| IJCV 2021    | [Mimetics: Towards Understanding Human Actions Out of Context](https://arxiv.org/pdf/1912.07249) |
+| WACV 2022    | [Pose And Joint-Aware Action Recognition](https://openaccess.thecvf.com/content/WACV2022/papers/Shah_Pose_and_Joint-Aware_Action_Recognition_WACV_2022_paper.pdf) |
+| CVPR 2023    | [On the Benefits of 3D Pose and Tracking for Human Action Recognition](https://openaccess.thecvf.com/content/CVPR2023/papers/Rajasegaran_On_the_Benefits_of_3D_Pose_and_Tracking_for_Human_CVPR_2023_paper.pdf) |
+| ||
